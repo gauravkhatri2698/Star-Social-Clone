@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: rgb(182, 43, 43);
+  color: rgb(20, 2, 2);
+  overflow-y: scroll;
+  height: 40px;
+  width: 100%;
+}
